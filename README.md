@@ -8,3 +8,7 @@
     - Split data fetching and UI components
     - Avoid side effects
     - Use props and their default values
+
+** Setup project:
+    - Copy .env.example to .env
+    - Replace your API Key if you have your own one.
